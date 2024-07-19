@@ -1,0 +1,275 @@
+.banner31-container12 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.banner31-image1 {
+  left: 0px;
+  width: 100%;
+  bottom: 0px;
+  height: 100%;
+  position: absolute;
+}
+.banner31-max-width5 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  z-index: 100;
+  align-items: center;
+  flex-direction: column;
+}
+.banner31-container13 {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  z-index: 100;
+  align-items: center;
+  flex-direction: column;
+}
+.banner31-title5 {
+  color: #d9d5d0;
+  text-align: center;
+  font-family: "TrebuchetMS";
+}
+.banner31-text5 {
+  color: #d9d5d0;
+  text-align: center;
+  font-family: "TrebuchetMS";
+}
+.banner31-root-class-name {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name1 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name2 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name3 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name4 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name5 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name6 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name7 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+
+.bt2-software-container {
+  width: 100%;
+  display: flex;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #26313f;
+}
+.bt2-software-contents-container {
+  width: 847px;
+  height: 1005px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.bt2-software-menu-bar {
+  gap: var(--dl-space-space-halfunit);
+  width: 100%;
+  height: 174px;
+  display: flex;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: center;
+  background-color: #2e3b4b;
+}
+.bt2-software-home-button {
+  color: rgb(217, 213, 208);
+  width: 111px;
+  height: 62px;
+  font-size: 20px;
+  border-width: 0px;
+  border-radius: 0px;
+  text-decoration: none;
+  text-align: center;
+  background-color: rgb(150, 87, 122);
+}
+.bt2-software-projects-button {
+  color: rgb(217, 213, 208);
+  width: 111px;
+  height: 62px;
+  font-size: 20px;
+  border-width: 0px;
+  border-radius: 0px;
+  text-decoration: none;
+  text-align: center;
+  background-color: rgb(150, 87, 122);
+}
+.bt2-software-hobbies-button {
+  color: rgb(217, 213, 208);
+  width: 111px;
+  height: 62px;
+  font-size: 20px;
+  border-width: 0px;
+  border-radius: 0px;
+  text-decoration: none;
+  text-align: center;
+  background-color: rgb(150, 87, 122);
+}
+.bt2-software-contact-button {
+  color: rgb(217, 213, 208);
+  width: 111px;
+  height: 62px;
+  font-size: 20px;
+  border-width: 0px;
+  border-radius: 0px;
+  text-decoration: none;
+  text-align: center;
+  background-color: rgb(150, 87, 122);
+}
+.bt2-software-text-container {
+  gap: var(--dl-space-space-unit);
+  width: 100%;
+  height: 50%;
+  display: flex;
+  align-items: center;
+  padding-top: 15px;
+  border-color: #2e3b4b;
+  border-width: 1px;
+  padding-left: 48px;
+  border-radius: var(--dl-radius-radius-radius8);
+  padding-right: 48px;
+  padding-bottom: 15px;
+  justify-content: center;
+  background-color: rgba(46, 59, 75, 0);
+}
+.bt2-software-proto-container {
+  gap: var(--dl-space-space-halfunit);
+  flex: 0 0 auto;
+  width: 454px;
+  height: 468px;
+  display: flex;
+  align-items: flex-start;
+  padding-top: 10px;
+  border-color: rgba(120, 120, 120, 0.4);
+  border-style: dashed;
+  border-width: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  flex-direction: column;
+  padding-bottom: 10px;
+  justify-content: flex-start;
+}
+.bt2-software-proto-title {
+  color: rgb(217, 213, 208);
+  font-size: 20px;
+  text-decoration: underline;
+}
+.bt2-software-text-container1 {
+  gap: var(--dl-space-space-halfunit);
+  flex: 0 0 auto;
+  width: 419px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.bt2-software-proto-text {
+  color: rgb(217, 213, 208);
+}
+.bt2-software-proto-text1 {
+  color: rgb(217, 213, 208);
+}
+.bt2-software-proto-text2 {
+  color: rgb(217, 213, 208);
+}
+.bt2-software-proto-text3 {
+  color: rgb(217, 213, 208);
+}
+.bt2-software-proto-text4 {
+  color: rgb(217, 213, 208);
+}
+.bt2-software-image-container {
+  gap: var(--dl-space-space-halfunit);
+  flex: 0 0 auto;
+  width: 263px;
+  height: 467px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.bt2-software-image {
+  width: 100%;
+  height: 169px;
+  object-fit: cover;
+}
+.bt2-software-link {
+  fill: rgb(150, 87, 122);
+  color: rgb(150, 87, 122);
+  border-color: rgb(150, 87, 122);
+  text-decoration: none;
+  background-color: rgb(38, 49, 63);
+}
+.bt2-software-footer-container {
+  gap: var(--dl-space-space-sixunits);
+  width: 100%;
+  height: 74px;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  border-color: rgba(120, 120, 120, 0.4);
+  border-style: dashed;
+  border-width: 0px;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: center;
+  background-color: #2e3b4b;
+}
+.bt2-software-disc-tag {
+  fill: #d9d5d0;
+  color: rgb(217, 213, 208);
+  font-size: 11px;
+}
+.bt2-software-container-icon {
+  gap: var(--dl-space-space-halfunit);
+  flex: 0 0 auto;
+  width: 420px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bt2-software-link1 {
+  display: contents;
+}
+.bt2-software-icon-in {
+  width: auto;
+  height: auto;
+  object-fit: cover;
+  text-decoration: none;
+}
+.bt2-software-link2 {
+  display: contents;
+}
+.bt2-software-icon-git {
+  width: auto;
+  height: auto;
+  object-fit: cover;
+  text-decoration: none;
+}

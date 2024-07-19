@@ -1,0 +1,264 @@
+.banner31-container60 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.banner31-image13 {
+  left: 0px;
+  width: 100%;
+  bottom: 0px;
+  height: 100%;
+  position: absolute;
+}
+.banner31-max-width29 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  z-index: 100;
+  align-items: center;
+  flex-direction: column;
+}
+.banner31-container61 {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  z-index: 100;
+  align-items: center;
+  flex-direction: column;
+}
+.banner31-title29 {
+  color: #d9d5d0;
+  text-align: center;
+  font-family: "TrebuchetMS";
+}
+.banner31-text29 {
+  color: #d9d5d0;
+  text-align: center;
+  font-family: "TrebuchetMS";
+}
+.banner31-root-class-name {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name1 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name2 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name3 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name4 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name5 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name6 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name7 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+
+.neurofeedback-games-container {
+  width: 100%;
+  display: flex;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #26313f;
+}
+.neurofeedback-games-contents-container {
+  width: 847px;
+  height: 1005px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.neurofeedback-games-menu-bar {
+  gap: var(--dl-space-space-halfunit);
+  width: 100%;
+  height: 174px;
+  display: flex;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: center;
+  background-color: #2e3b4b;
+}
+.neurofeedback-games-home-button {
+  color: rgb(217, 213, 208);
+  width: 111px;
+  height: 62px;
+  font-size: 20px;
+  border-width: 0px;
+  border-radius: 0px;
+  text-decoration: none;
+  text-align: center;
+  background-color: rgb(150, 87, 122);
+}
+.neurofeedback-games-projects-button {
+  color: rgb(217, 213, 208);
+  width: 111px;
+  height: 62px;
+  font-size: 20px;
+  border-width: 0px;
+  border-radius: 0px;
+  text-decoration: none;
+  text-align: center;
+  background-color: rgb(150, 87, 122);
+}
+.neurofeedback-games-hobbies-button {
+  color: rgb(217, 213, 208);
+  width: 111px;
+  height: 62px;
+  font-size: 20px;
+  border-width: 0px;
+  border-radius: 0px;
+  text-decoration: none;
+  text-align: center;
+  background-color: rgb(150, 87, 122);
+}
+.neurofeedback-games-contact-button {
+  color: rgb(217, 213, 208);
+  width: 111px;
+  height: 62px;
+  font-size: 20px;
+  border-width: 0px;
+  border-radius: 0px;
+  text-decoration: none;
+  text-align: center;
+  background-color: rgb(150, 87, 122);
+}
+.neurofeedback-games-text-container {
+  gap: var(--dl-space-space-unit);
+  width: 100%;
+  height: 50%;
+  display: flex;
+  align-items: center;
+  padding-top: 15px;
+  border-color: #2e3b4b;
+  border-width: 1px;
+  padding-left: 48px;
+  border-radius: var(--dl-radius-radius-radius8);
+  padding-right: 48px;
+  padding-bottom: 15px;
+  justify-content: center;
+  background-color: rgba(46, 59, 75, 0);
+}
+.neurofeedback-games-proto-container {
+  gap: var(--dl-space-space-halfunit);
+  flex: 0 0 auto;
+  width: 454px;
+  height: 468px;
+  display: flex;
+  align-items: flex-start;
+  padding-top: 10px;
+  border-color: rgba(120, 120, 120, 0.4);
+  border-style: dashed;
+  border-width: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  flex-direction: column;
+  padding-bottom: 10px;
+  justify-content: flex-start;
+}
+.neurofeedback-games-proto-title {
+  color: rgb(217, 213, 208);
+  font-size: 20px;
+  text-decoration: underline;
+}
+.neurofeedback-games-text-container1 {
+  gap: var(--dl-space-space-halfunit);
+  flex: 0 0 auto;
+  width: 419px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.neurofeedback-games-proto-text {
+  color: rgb(217, 213, 208);
+}
+.neurofeedback-games-proto-text1 {
+  color: rgb(217, 213, 208);
+}
+.neurofeedback-games-proto-text2 {
+  color: rgb(217, 213, 208);
+}
+.neurofeedback-games-proto-text3 {
+  color: rgb(217, 213, 208);
+}
+.neurofeedback-games-proto-text4 {
+  color: rgb(217, 213, 208);
+}
+.neurofeedback-games-image-container {
+  gap: var(--dl-space-space-halfunit);
+  flex: 0 0 auto;
+  width: 263px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 467px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.neurofeedback-games-footer-container {
+  gap: var(--dl-space-space-sixunits);
+  width: 100%;
+  height: 74px;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  border-color: rgba(120, 120, 120, 0.4);
+  border-style: dashed;
+  border-width: 0px;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: center;
+  background-color: #2e3b4b;
+}
+.neurofeedback-games-disc-tag {
+  fill: #d9d5d0;
+  color: rgb(217, 213, 208);
+  font-size: 11px;
+}
+.neurofeedback-games-container-icon {
+  gap: var(--dl-space-space-halfunit);
+  flex: 0 0 auto;
+  width: 420px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.neurofeedback-games-link {
+  display: contents;
+}
+.neurofeedback-games-icon-in {
+  width: auto;
+  height: auto;
+  object-fit: cover;
+  text-decoration: none;
+}
+.neurofeedback-games-link1 {
+  display: contents;
+}
+.neurofeedback-games-icon-git {
+  width: auto;
+  height: auto;
+  object-fit: cover;
+  text-decoration: none;
+}

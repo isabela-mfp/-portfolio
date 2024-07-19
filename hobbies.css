@@ -1,0 +1,268 @@
+.banner31-container28 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.banner31-image5 {
+  left: 0px;
+  width: 100%;
+  bottom: 0px;
+  height: 100%;
+  position: absolute;
+}
+.banner31-max-width13 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  z-index: 100;
+  align-items: center;
+  flex-direction: column;
+}
+.banner31-container29 {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  z-index: 100;
+  align-items: center;
+  flex-direction: column;
+}
+.banner31-title13 {
+  color: #d9d5d0;
+  text-align: center;
+  font-family: "TrebuchetMS";
+}
+.banner31-text13 {
+  color: #d9d5d0;
+  text-align: center;
+  font-family: "TrebuchetMS";
+}
+.banner31-root-class-name {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name1 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name2 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name3 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name4 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name5 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name6 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name7 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+
+.hobbies-container {
+  width: 100%;
+  display: flex;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #26313f;
+}
+.hobbies-contents-container {
+  width: 847px;
+  height: 1005px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.hobbies-menu-bar {
+  gap: var(--dl-space-space-halfunit);
+  width: 100%;
+  height: 174px;
+  display: flex;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: center;
+  background-color: #2e3b4b;
+}
+.hobbies-home-button {
+  color: rgb(217, 213, 208);
+  width: 111px;
+  height: 62px;
+  font-size: 20px;
+  border-width: 0px;
+  border-radius: 0px;
+  text-decoration: none;
+  text-align: center;
+  background-color: rgb(150, 87, 122);
+}
+.hobbies-projects-button {
+  color: rgb(217, 213, 208);
+  width: 111px;
+  height: 62px;
+  font-size: 20px;
+  border-width: 0px;
+  border-radius: 0px;
+  text-decoration: none;
+  text-align: center;
+  background-color: rgb(150, 87, 122);
+}
+.hobbies-hobbies-button {
+  color: rgb(217, 213, 208);
+  width: 111px;
+  height: 62px;
+  font-size: 20px;
+  border-width: 0px;
+  border-radius: 0px;
+  text-decoration: none;
+  text-align: center;
+  background-color: rgb(150, 87, 122);
+}
+.hobbies-contact-button {
+  color: rgb(217, 213, 208);
+  width: 111px;
+  height: 62px;
+  font-size: 20px;
+  border-width: 0px;
+  border-radius: 0px;
+  text-decoration: none;
+  text-align: center;
+  background-color: rgb(150, 87, 122);
+}
+.hobbies-text-container {
+  gap: var(--dl-space-space-unit);
+  width: 100%;
+  height: 50%;
+  display: flex;
+  align-items: center;
+  padding-top: 15px;
+  border-color: #2e3b4b;
+  border-width: 1px;
+  padding-left: 48px;
+  border-radius: var(--dl-radius-radius-radius8);
+  padding-right: 48px;
+  padding-bottom: 15px;
+  justify-content: center;
+  background-color: rgba(46, 59, 75, 0);
+}
+.hobbies-dance-container {
+  gap: var(--dl-space-space-halfunit);
+  flex: 0 0 auto;
+  width: 367px;
+  height: 468px;
+  display: flex;
+  align-items: center;
+  padding-top: 10px;
+  border-color: rgba(120, 120, 120, 0.4);
+  border-style: dashed;
+  border-width: 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+  flex-direction: column;
+  padding-bottom: 10px;
+  justify-content: flex-start;
+}
+.hobbies-image {
+  width: 200px;
+  object-fit: cover;
+}
+.hobbies-dance-title {
+  color: rgb(217, 213, 208);
+  font-size: 20px;
+}
+.hobbies-text {
+  color: rgb(217, 213, 208);
+  font-size: 15px;
+  align-self: stretch;
+}
+.hobbies-scrapb-container {
+  gap: var(--dl-space-space-halfunit);
+  flex: 0 0 auto;
+  width: 367px;
+  height: 468px;
+  display: flex;
+  align-items: center;
+  padding-top: 10px;
+  border-color: rgba(120, 120, 120, 0.4);
+  border-style: dashed;
+  border-width: 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+  flex-direction: column;
+  padding-bottom: 10px;
+  justify-content: flex-start;
+}
+.hobbies-scrapb-pic {
+  width: 50%;
+  height: 193px;
+  object-fit: cover;
+}
+.hobbies-scrapb-pic1 {
+  color: rgb(217, 213, 208);
+  font-size: 20px;
+}
+.hobbies-text07 {
+  color: rgb(217, 213, 208);
+  font-size: 15px;
+  align-self: stretch;
+}
+.hobbies-footer-container {
+  gap: var(--dl-space-space-sixunits);
+  width: 100%;
+  height: 74px;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  border-color: rgba(120, 120, 120, 0.4);
+  border-style: dashed;
+  border-width: 0px;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: center;
+  background-color: #2e3b4b;
+}
+.hobbies-disc-tag {
+  fill: #d9d5d0;
+  color: rgb(217, 213, 208);
+  font-size: 11px;
+}
+.hobbies-container-icon {
+  gap: var(--dl-space-space-halfunit);
+  flex: 0 0 auto;
+  width: 420px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hobbies-link {
+  display: contents;
+}
+.hobbies-icon-in {
+  width: auto;
+  height: auto;
+  object-fit: cover;
+  text-decoration: none;
+}
+.hobbies-link1 {
+  display: contents;
+}
+.hobbies-icon-git {
+  width: auto;
+  height: auto;
+  object-fit: cover;
+  text-decoration: none;
+}

@@ -1,0 +1,287 @@
+.banner31-container68 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.banner31-image15 {
+  left: 0px;
+  width: 100%;
+  bottom: 0px;
+  height: 100%;
+  position: absolute;
+}
+.banner31-max-width33 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  z-index: 100;
+  align-items: center;
+  flex-direction: column;
+}
+.banner31-container69 {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  z-index: 100;
+  align-items: center;
+  flex-direction: column;
+}
+.banner31-title33 {
+  color: #d9d5d0;
+  text-align: center;
+  font-family: "TrebuchetMS";
+}
+.banner31-text33 {
+  color: #d9d5d0;
+  text-align: center;
+  font-family: "TrebuchetMS";
+}
+.banner31-root-class-name {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name1 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name2 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name3 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name4 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name5 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name6 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+.banner31-root-class-name7 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+
+.prototype-arena-container {
+  width: 100%;
+  display: flex;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #26313f;
+}
+.prototype-arena-contents-container {
+  width: 847px;
+  height: 1005px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.prototype-arena-menu-bar {
+  gap: var(--dl-space-space-halfunit);
+  width: 100%;
+  height: 174px;
+  display: flex;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: center;
+  background-color: #2e3b4b;
+}
+.prototype-arena-home-button {
+  color: rgb(217, 213, 208);
+  width: 111px;
+  height: 62px;
+  font-size: 20px;
+  border-width: 0px;
+  border-radius: 0px;
+  text-decoration: none;
+  text-align: center;
+  background-color: rgb(150, 87, 122);
+}
+.prototype-arena-projects-button {
+  color: rgb(217, 213, 208);
+  width: 111px;
+  height: 62px;
+  font-size: 20px;
+  border-width: 0px;
+  border-radius: 0px;
+  text-decoration: none;
+  text-align: center;
+  background-color: rgb(150, 87, 122);
+}
+.prototype-arena-hobbies-button {
+  color: rgb(217, 213, 208);
+  width: 111px;
+  height: 62px;
+  font-size: 20px;
+  border-width: 0px;
+  border-radius: 0px;
+  text-decoration: none;
+  text-align: center;
+  background-color: rgb(150, 87, 122);
+}
+.prototype-arena-contact-button {
+  color: rgb(217, 213, 208);
+  width: 111px;
+  height: 62px;
+  font-size: 20px;
+  border-width: 0px;
+  border-radius: 0px;
+  text-decoration: none;
+  text-align: center;
+  background-color: rgb(150, 87, 122);
+}
+.prototype-arena-text-container {
+  gap: var(--dl-space-space-unit);
+  width: 100%;
+  height: 50%;
+  display: flex;
+  align-items: center;
+  padding-top: 15px;
+  border-color: #2e3b4b;
+  border-width: 1px;
+  padding-left: 48px;
+  border-radius: var(--dl-radius-radius-radius8);
+  padding-right: 48px;
+  padding-bottom: 15px;
+  justify-content: center;
+  background-color: rgba(46, 59, 75, 0);
+}
+.prototype-arena-proto-container {
+  gap: var(--dl-space-space-halfunit);
+  flex: 0 0 auto;
+  width: 454px;
+  height: 468px;
+  display: flex;
+  align-items: flex-start;
+  padding-top: 10px;
+  border-color: rgba(120, 120, 120, 0.4);
+  border-style: dashed;
+  border-width: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  flex-direction: column;
+  padding-bottom: 10px;
+  justify-content: flex-start;
+}
+.prototype-arena-proto-title {
+  color: #d9d5d0;
+  font-size: 20px;
+  text-decoration: underline;
+}
+.prototype-arena-text-container1 {
+  gap: var(--dl-space-space-halfunit);
+  flex: 0 0 auto;
+  width: 419px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.prototype-arena-proto-text {
+  color: #d9d5d0;
+}
+.prototype-arena-proto-text1 {
+  color: rgb(217, 213, 208);
+}
+.prototype-arena-proto-text2 {
+  color: rgb(217, 213, 208);
+}
+.prototype-arena-proto-text3 {
+  color: rgb(217, 213, 208);
+}
+.prototype-arena-proto-text4 {
+  color: rgb(217, 213, 208);
+}
+.prototype-arena-image-container {
+  gap: var(--dl-space-space-halfunit);
+  flex: 0 0 auto;
+  width: 263px;
+  height: 467px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.prototype-arena-image {
+  width: 100%;
+  height: 161px;
+  object-fit: cover;
+}
+.prototype-arena-link {
+  fill: rgb(150, 87, 122);
+  color: rgb(150, 87, 122);
+  border-color: rgb(150, 87, 122);
+  text-decoration: none;
+  background-color: #26313f;
+}
+.prototype-arena-image1 {
+  width: 100%;
+  height: 149px;
+  object-fit: cover;
+}
+.prototype-arena-link1 {
+  fill: rgb(150, 87, 122);
+  color: rgb(150, 87, 122);
+  border-color: rgb(150, 87, 122);
+  text-decoration: none;
+  background-color: #26313f;
+}
+.prototype-arena-footer-container {
+  gap: var(--dl-space-space-sixunits);
+  width: 100%;
+  height: 74px;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  border-color: rgba(120, 120, 120, 0.4);
+  border-style: dashed;
+  border-width: 0px;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: center;
+  background-color: #2e3b4b;
+}
+.prototype-arena-disc-tag {
+  fill: #d9d5d0;
+  color: rgb(217, 213, 208);
+  font-size: 11px;
+}
+.prototype-arena-container-icon {
+  gap: var(--dl-space-space-halfunit);
+  flex: 0 0 auto;
+  width: 420px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.prototype-arena-link2 {
+  display: contents;
+}
+.prototype-arena-icon-in {
+  width: auto;
+  height: auto;
+  object-fit: cover;
+  text-decoration: none;
+}
+.prototype-arena-link3 {
+  display: contents;
+}
+.prototype-arena-icon-git {
+  width: auto;
+  height: auto;
+  object-fit: cover;
+  text-decoration: none;
+}
