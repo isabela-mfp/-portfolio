@@ -101,6 +101,9 @@
 }
 .home-home-button {
   color: rgb(217, 213, 208);
+  display: flex; /* Utiliza Flexbox */
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
   width: 111px;
   height: 62px;
   font-size: 20px;
@@ -112,6 +115,9 @@
 }
 .home-projects-button {
   color: #d9d5d0;
+  display: flex; /* Utiliza Flexbox */
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
   width: 111px;
   height: 62px;
   font-size: 20px;
@@ -123,6 +129,9 @@
 }
 .home-hobbies-button {
   color: #d9d5d0;
+  display: flex; /* Utiliza Flexbox */
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
   width: 111px;
   height: 62px;
   font-size: 20px;
@@ -134,6 +143,9 @@
 }
 .home-contact-button {
   color: rgb(217, 213, 208);
+  display: flex; /* Utiliza Flexbox */
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
   width: 111px;
   height: 62px;
   font-size: 20px;

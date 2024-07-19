@@ -101,6 +101,9 @@
 }
 .bt2-software-home-button {
   color: rgb(217, 213, 208);
+  display: flex; /* Utiliza Flexbox */
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
   width: 111px;
   height: 62px;
   font-size: 20px;
@@ -112,6 +115,9 @@
 }
 .bt2-software-projects-button {
   color: rgb(217, 213, 208);
+  display: flex; /* Utiliza Flexbox */
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
   width: 111px;
   height: 62px;
   font-size: 20px;
@@ -123,6 +129,9 @@
 }
 .bt2-software-hobbies-button {
   color: rgb(217, 213, 208);
+  display: flex; /* Utiliza Flexbox */
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
   width: 111px;
   height: 62px;
   font-size: 20px;
@@ -134,6 +143,9 @@
 }
 .bt2-software-contact-button {
   color: rgb(217, 213, 208);
+  display: flex; /* Utiliza Flexbox */
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
   width: 111px;
   height: 62px;
   font-size: 20px;
